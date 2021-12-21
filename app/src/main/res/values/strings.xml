@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nama - Nama</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_click_back_again_to_exit">klik lagi :v</string>
+    <string name="err_msg_enter_first_name">tidak bisa dibuka :v</string>
+    <string name="err_msgss_enter_first_name">pemuda pancasila tidak bisa dibuka :v</string>
+    <string name="err_msgs_enter_first_name">presiden tidak bisa dibuka :v</string>
+</resources>

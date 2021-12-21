@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation.xml"
+    app:startDestination="@id/indonesia">
+
+    <fragment
+        android:id="@+id/indonesia"
+        android:name="com.example.nama.IndonesiaFragment"
+        android:label="fragment_indonesia"
+        tools:layout="@layout/fragment_indonesia">
+    </fragment>
+
+    <fragment
+        android:id="@+id/malaysia"
+        android:name="com.example.nama.MalaysiaFragment"
+        android:label="fragment_malaysia"
+        tools:layout="@layout/fragment_malaysia">
+    </fragment>
+</navigation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/indonesia"
+        android:title="Indonesia"
+        android:icon="@drawable/indonesia"/>
+
+    <item
+        android:id="@+id/malaysia"
+        android:title="Malaysia"
+        android:icon="@drawable/malaysia"/>
+
+</menu>
